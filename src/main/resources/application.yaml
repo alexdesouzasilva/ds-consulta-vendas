@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: ds-consulta-vendas
+    profiles:
+        active: dev
+    jpa:
+        open-in-view: false
